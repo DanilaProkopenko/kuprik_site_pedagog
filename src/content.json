@@ -1,0 +1,97 @@
+{
+  "news": [
+    {
+      "title": {
+        "ru": "Новая методика преподавания",
+        "en": "New teaching methodology"
+      },
+      "content": {
+        "ru": "Разработана новая методика преподавания, которая показала отличные результаты в тестовых группах.",
+        "en": "A new teaching methodology has been developed that has shown excellent results in test groups."
+      },
+      "date": "2023-05-15"
+    },
+    {
+      "title": {
+        "ru": "Участие в конференции",
+        "en": "Conference participation"
+      },
+      "content": {
+        "ru": "Принял участие в международной конференции по современным методам образования.",
+        "en": "Participated in an international conference on modern education methods."
+      },
+      "date": "2023-04-20"
+    }
+  ],
+  "about": {
+    "title": {
+      "ru": "О педагоге",
+      "en": "About the teacher"
+    },
+    "content": {
+      "ru": "Квалифицированный педагог с 10-летним опытом работы в образовательных учреждениях. Специализация - современные методы обучения.",
+      "en": "Qualified teacher with 10 years of experience in educational institutions. Specialization - modern teaching methods."
+    },
+    "achievements": [
+      {
+        "ru": "Кандидат педагогических наук",
+        "en": "Candidate of Pedagogical Sciences"
+      },
+      {
+        "ru": "Автор 5 научных публикаций",
+        "en": "Author of 5 scientific publications"
+      },
+      {
+        "ru": "Победитель конкурса 'Учитель года' 2020",
+        "en": "Winner of the 'Teacher of the Year' competition 2020"
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "ru": "Контактная информация",
+      "en": "Contact information"
+    },
+    "address": {
+      "ru": "г. Ростов-на-Дону, ул. Большая Садовая, 105",
+      "en": "Rostov-on-Don, Bolshaya Sadovaya str., 105"
+    },
+    "email": "teacher@example.com",
+    "phone": "+7 908 517 50 43"
+  },
+  "products": [
+    {
+      "title": {
+        "ru": "Индивидуальные консультации",
+        "en": "Individual consultations"
+      },
+      "description": {
+        "ru": "Персональные занятия по методике преподавания и педагогике.",
+        "en": "Personal lessons on teaching methodology and pedagogy."
+      },
+      "price": "2000 руб./час"
+    },
+    {
+      "title": {
+        "ru": "Онлайн-курс",
+        "en": "Online course"
+      },
+      "description": {
+        "ru": "8-недельный курс по современным методам преподавания.",
+        "en": "8-week course on modern teaching methods."
+      },
+      "price": "15000 руб."
+    },
+    {
+      "title": {
+        "ru": "Методическое пособие",
+        "en": "Methodological guide"
+      },
+      "description": {
+        "ru": "Авторское методическое пособие для педагогов.",
+        "en": "Author's methodological guide for teachers."
+      },
+      "price": "3000 руб."
+    }
+  ]
+}

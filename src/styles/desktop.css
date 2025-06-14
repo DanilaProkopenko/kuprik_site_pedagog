@@ -1,0 +1,18 @@
+/* Стили для десктопных устройств (ширина больше 800px) */
+@media (min-width: 801px) {
+  .burger-menu {
+    display: none !important;
+  }
+  
+  .nav-menu {
+    display: block !important;
+  }
+  
+  .main {
+    flex-direction: row;
+  }
+  
+  .section, .aside {
+    display: flex !important;
+  }
+}
